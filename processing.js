@@ -1,7 +1,7 @@
 var model;
 
 async function loadModel() {
-    model = await tf.loadGraphModel('TFJS/model.json');
+    model = await tf.loadGraphModel('https://shedulab.github.io/TFJS/model.json');
     
 };
 
