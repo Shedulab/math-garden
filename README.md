@@ -7,4 +7,6 @@ If you answer correct your garden will bloom.
 
 Have fun!
 
+https://shedulab.github.io/math-garden/
+
 Note: The Tensorflow Model has been trained on the MNIST dataset to predict handwritten digits.
